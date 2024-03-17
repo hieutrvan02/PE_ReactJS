@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PE_ReactJS/static/css/main.6a38e567.css",
+    "main.js": "/PE_ReactJS/static/js/main.faf5eeca.js",
+    "index.html": "/PE_ReactJS/index.html",
+    "main.6a38e567.css.map": "/PE_ReactJS/static/css/main.6a38e567.css.map",
+    "main.faf5eeca.js.map": "/PE_ReactJS/static/js/main.faf5eeca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a38e567.css",
+    "static/js/main.faf5eeca.js"
+  ]
+}
